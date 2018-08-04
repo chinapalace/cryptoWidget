@@ -1,0 +1,13 @@
+/*******************************
+     User Global Variables
+*******************************/
+
+@pageBackground: #16161f;
+@textColor: white;
+@primaryColor: blue;
+@googleFontSizes   : '300,400,700,400italic,700italic';
+@inputBackground : #16112f;
+@primaryColor: #009fff;
+@fontSize: 11px;
+@headerFontWeight : @normal;
+@hoveredTextColor     : white;

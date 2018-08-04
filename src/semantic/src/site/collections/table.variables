@@ -1,0 +1,13 @@
+/*******************************
+    User Variable Overrides
+*******************************/
+@headerFontWeight: @normal;
+@invertedBackground: #0f1017;
+@invertedHeaderBackground: #0f1017;
+@invertedHeaderColor: #42535a;
+@cellVerticalPadding: 3px;
+@cellHorizontalPadding: 0;
+@headerVerticalPadding: 3px;
+@headerHorizontalPadding: 0;
+@rowBorder: none;
+@headerBorder: none;

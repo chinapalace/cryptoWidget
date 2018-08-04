@@ -1,0 +1,9 @@
+/*******************************
+         Site Overrides
+*******************************/
+table.ui.table {
+    font-size: 11px;
+}
+.ui.inverted.table th:hover {
+    color: #009fff !important;
+}

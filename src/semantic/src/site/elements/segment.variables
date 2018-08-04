@@ -1,0 +1,7 @@
+/*******************************
+    User Variable Overrides
+*******************************/
+@verticalMargin: 0.71428571428rem;
+@invertedBackground: #0f1017;
+@verticalPadding: 5px;
+@horizontalPadding: 5px;

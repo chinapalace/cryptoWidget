@@ -1,0 +1,13 @@
+.ui.inverted.sortable.table thead th.sorted {
+  background: inherit !important;
+  color: #009fff !important;
+}
+.ui.sortable.table thead th {
+  border-left: none !important;
+}
+.ui.sortable.table thead th:hover {
+  background: inherit !important;
+}
+.box {
+  padding: 3px;
+}
